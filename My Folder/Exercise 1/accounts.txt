@@ -1,2 +1,0 @@
-elizer,password
-reyah,pass123
